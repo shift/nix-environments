@@ -34,6 +34,7 @@ let
       fixWrapper
       systemd
       binutils
+      protoc
 
       ncurses
       zlib
